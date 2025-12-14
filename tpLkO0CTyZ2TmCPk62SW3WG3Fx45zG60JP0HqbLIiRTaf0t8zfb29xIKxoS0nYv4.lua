@@ -1620,10 +1620,10 @@ if _k and _k ~= "" then
     khuasgfjgjrjog93570sdfih(_ski)
 end
 
-ClickGUI.AddTab(Il1lIll("186A6F724877216F28321C604C2D2A", false), function()
+ClickGUI.AddTab(Il1lIll("186A6F724877216F28321C604C2D28", false), function()
   
     if not _skv then
-    ImGui.Text(Il1lIll("1664545D47774D6F211B6319232956", false)) 
+    ImGui.Text(Il1lIll("1664545D47774D6F211B6319232953", false)) 
 
     local jkhgwerug97 = ImGui.InputText(Il1lIll("782F715D524040562121", false), _ski) 
     if type(jkhgwerug97) == "string" then _ski = jkhgwerug97 end
@@ -2033,6 +2033,7 @@ FeatureMgr.AddFeature(Utils.Joaat("CASINO_TELEPORT_OPTIONS"), "Teleport Options"
     end
 
 end):SetList({"None", "Entrance Of Your Arcade", "Inside", "Outside"})
+
 
 
 
