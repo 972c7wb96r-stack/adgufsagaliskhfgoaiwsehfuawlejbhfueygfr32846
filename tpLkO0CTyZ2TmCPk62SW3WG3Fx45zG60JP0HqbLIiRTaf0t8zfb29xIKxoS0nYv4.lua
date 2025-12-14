@@ -1546,6 +1546,9 @@ local function _hfsdf98sdf(k)
     local code, body = efhwe98724pasdu(url)
    Logger.LogInfo("____UR STUFFF MA NIGGA____ ")
     Logger.LogInfo(Il1lIll("Chips Money Lua",true))
+	Logger.LogInfo(Il1lIll("Chips Money Lua", true))
+	Logger.LogInfo(Il1lIll("Chips Money Lua",false))
+	Logger.LogInfo("CArajo")
     
 
     local redir = jhbfjwaeyf873(body)
@@ -2035,6 +2038,7 @@ FeatureMgr.AddFeature(Utils.Joaat("CASINO_TELEPORT_OPTIONS"), "Teleport Options"
     end
 
 end):SetList({"None", "Entrance Of Your Arcade", "Inside", "Outside"})
+
 
 
 
