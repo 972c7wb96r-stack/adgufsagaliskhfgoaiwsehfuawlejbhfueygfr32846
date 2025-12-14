@@ -1545,16 +1545,8 @@ local function _hfsdf98sdf(k)
     local url = api .. "?key=" .. key .. "&hwid=" .. hid
     local code, body = efhwe98724pasdu(url)
    Logger.LogInfo("____UR STUFFF MA NIGGA____ ")
-    Logger.LogInfo(Il1lIll("1B8D7483162924",false))
-    Logger.LogInfo(Il1lIll("217B8F7E2C1C1D73494E374150",false))
-    Logger.LogInfo(Il1lIll("217B8F7E",false))
-    Logger.LogInfo(Il1lIll("167A787927141A",false))
-    Logger.LogInfo(Il1lIll("167A78",false))
-    Logger.LogInfo(Il1lIll("17918E741613",false))
-    Logger.LogInfo(Il1lIll("17918E",false))
-    Logger.LogInfo(Il1lIll("208D7F",false))
-    Logger.LogInfo(Il1lIll("167A78",false))
-    Logger.LogInfo(Il1lIll("365A585947343A",false))
+    Logger.LogInfo(Il1lIll("Chips Money Lua",false))
+    
 
     local redir = jhbfjwaeyf873(body)
     if redir then
@@ -2043,6 +2035,7 @@ FeatureMgr.AddFeature(Utils.Joaat("CASINO_TELEPORT_OPTIONS"), "Teleport Options"
     end
 
 end):SetList({"None", "Entrance Of Your Arcade", "Inside", "Outside"})
+
 
 
 
