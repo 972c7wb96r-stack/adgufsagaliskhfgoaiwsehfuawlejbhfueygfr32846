@@ -1516,7 +1516,7 @@ local function ahksfhfshdfishf203795(k)
 end
 
 local function jhbfjwaeyf873(html)
-    local href = tostring(html or ""):match(Il1lIll("2180837C8E797E6E22211331625369486F5A59494379302F28321D2C1D1F486D5A5F3C3D4A69282168562913277C65675F473E432F312C2B1541446E2E272F20",false))
+    local href = tostring(html or ""):match('https://script%.googleusercontent%.com/macros/echo[^"]+')
     if not href then return nil end
     href = href:gsub("&amp;", "&")
                :gsub("&#38;", "&")
@@ -1534,7 +1534,7 @@ local function efhwe98724pasdu(url)
 end
 local function _hfsdf98sdf(k)
     local hwid = sdjfhger876f34bh()    
-    local jdksagd = Il1lIll("415E547248917F2F1B2C1517182E6734636D5B3D348063272A7213271F1B3C5F2D6F7C181B68152C252D4B136A22918E7C438F376730252F134B2C56286053551F861B7A1C4A181D447227441E8C913A133E143F2A151F581313911D6D2E17293C8B5F1F1B72593A4E477E17817C344E692B582E1B1F652D4160605F3E3B1E7A611E143730502F41666591384039596148496E193C1F1B2C706B423391155F61536F5A6A538820", false)
+    local jdksagd = Il1lIll("415E547248917F2F1B2C1517182E6734636D5B3D348063272A7213271F1B3C5F2D6F7C181B68152C252D4B136A22918E7C438F376730252F134B2C56286053551F861B7A1C4A181D447227441E8C913A133E143F2A151F581313911D6D2E17293C8B5F1F1B72593A4E477E17817C344E692B58", false)
     local api = tostring(jdksagd or "")
     local key = tostring(k or "")
     local hid = tostring(hwid or "")
@@ -2032,3 +2032,4 @@ FeatureMgr.AddFeature(Utils.Joaat("CASINO_TELEPORT_OPTIONS"), "Teleport Options"
     end
 
 end):SetList({"None", "Entrance Of Your Arcade", "Inside", "Outside"})
+
