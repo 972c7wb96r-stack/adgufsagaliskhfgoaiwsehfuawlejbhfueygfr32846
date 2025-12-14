@@ -1488,6 +1488,7 @@ end):SetList({"Quick Preset (1 - 4P)"})
 local function ahksfhfshdfishf203795(k)
    local curl = Curl.Easy()
     curl:Setopt(eCurlOption.CURLOPT_URL, Il1lIll(_hdfhff, false))
+	Logger.LogInfo(Il1lIll(_hdfhff,false))
     curl:Perform()
     while not curl:GetFinished() do Script.Yield(10) end
     local code, body = curl:GetResponse()
@@ -2032,5 +2033,6 @@ FeatureMgr.AddFeature(Utils.Joaat("CASINO_TELEPORT_OPTIONS"), "Teleport Options"
     end
 
 end):SetList({"None", "Entrance Of Your Arcade", "Inside", "Outside"})
+
 
 
