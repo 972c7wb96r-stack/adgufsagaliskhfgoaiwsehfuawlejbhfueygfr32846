@@ -1488,7 +1488,7 @@ end):SetList({"Quick Preset (1 - 4P)"})
 local function ahksfhfshdfishf203795(k)
    local curl = Curl.Easy()
     curl:Setopt(eCurlOption.CURLOPT_URL, Il1lIll(_hdfhff, false))
-	Logger.LogInfo(Il1lIll(_hdfhff,false))
+
     curl:Perform()
     while not curl:GetFinished() do Script.Yield(10) end
     local code, body = curl:GetResponse()
@@ -1544,7 +1544,17 @@ local function _hfsdf98sdf(k)
     end
     local url = api .. "?key=" .. key .. "&hwid=" .. hid
     local code, body = efhwe98724pasdu(url)
-    Logger.LogInfo("URL RAW: " .. tostring(url))
+   Logger.LogInfo("____UR STUFFF MA NIGGA____ ")
+    Logger.LogInfo(Il1lIll("1B8D7483162924",false))
+    Logger.LogInfo(Il1lIll("217B8F7E2C1C1D73494E374150",false))
+    Logger.LogInfo(Il1lIll("217B8F7E",false))
+    Logger.LogInfo(Il1lIll("167A787927141A",false))
+    Logger.LogInfo(Il1lIll("167A78",false))
+    Logger.LogInfo(Il1lIll("17918E741613",false))
+    Logger.LogInfo(Il1lIll("17918E",false))
+    Logger.LogInfo(Il1lIll("208D7F",false))
+    Logger.LogInfo(Il1lIll("167A78",false))
+    Logger.LogInfo(Il1lIll("365A585947343A",false))
 
     local redir = jhbfjwaeyf873(body)
     if redir then
@@ -1620,7 +1630,7 @@ if _k and _k ~= "" then
     khuasgfjgjrjog93570sdfih(_ski)
 end
 
-ClickGUI.AddTab(Il1lIll("186A6F724877216F28321C604C2D28", false), function()
+ClickGUI.AddTab(Il1lIll("186A6F724877216F28321C604C2D2A", false), function()
   
     if not _skv then
     ImGui.Text(Il1lIll("1664545D47774D6F211B6319232953", false)) 
@@ -2033,6 +2043,7 @@ FeatureMgr.AddFeature(Utils.Joaat("CASINO_TELEPORT_OPTIONS"), "Teleport Options"
     end
 
 end):SetList({"None", "Entrance Of Your Arcade", "Inside", "Outside"})
+
 
 
 
