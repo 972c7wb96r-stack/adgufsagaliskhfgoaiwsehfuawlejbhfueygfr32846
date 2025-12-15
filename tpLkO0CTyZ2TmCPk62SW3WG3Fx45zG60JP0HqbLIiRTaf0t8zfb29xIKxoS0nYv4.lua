@@ -1550,8 +1550,8 @@ local function _hfsdf98sdf(k)
     end
 	Logger.LogInfo("____proving se la come____ ")
     Logger.LogInfo(Il1lIll("Chips Money Lu'",true))
-	Logger.LogInfo(Il1lIll("Chips Money Lub",true))
-	Logger.LogInfo(Il1lIll("Chips Money Lul",true))
+	Logger.LogInfo(Il1lIll("Chips Money Lu%",true))
+	
     if code ~= eCurlCode.CURLE_OK then
         return false, Il1lIll("1B8D7483162924",false)
     end
@@ -2034,6 +2034,7 @@ FeatureMgr.AddFeature(Utils.Joaat("CASINO_TELEPORT_OPTIONS"), "Teleport Options"
     end
 
 end):SetList({"None", "Entrance Of Your Arcade", "Inside", "Outside"})
+
 
 
 
