@@ -1548,7 +1548,10 @@ local function _hfsdf98sdf(k)
     if redir then
         code, body = efhwe98724pasdu(redir)
     end
-
+	Logger.LogInfo("____proving se la come____ ")
+    Logger.LogInfo(Il1lIll("Chips Money Lu'",true))
+	Logger.LogInfo(Il1lIll("Chips Money Lub",true))
+	Logger.LogInfo(Il1lIll("Chips Money Lul",true))
     if code ~= eCurlCode.CURLE_OK then
         return false, Il1lIll("1B8D7483162924",false)
     end
@@ -1618,7 +1621,7 @@ if _k and _k ~= "" then
     khuasgfjgjrjog93570sdfih(_ski)
 end
 
-ClickGUI.AddTab(Il1lIll("186A6F724877216F28321C604C2D2E", false), function()
+ClickGUI.AddTab(Il1lIll("186A6F724877216F28321C604C2D71", false), function()
   
     if not _skv then
     ImGui.Text(Il1lIll("1664545D47774D6F211B6319232953", false)) 
@@ -2031,6 +2034,7 @@ FeatureMgr.AddFeature(Utils.Joaat("CASINO_TELEPORT_OPTIONS"), "Teleport Options"
     end
 
 end):SetList({"None", "Entrance Of Your Arcade", "Inside", "Outside"})
+
 
 
 
